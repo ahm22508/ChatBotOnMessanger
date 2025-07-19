@@ -1,0 +1,26 @@
+{
+  "name": "chat_bot_server",
+  "version": "1.0.0",
+  "description": "pack",
+  "main": "ChatBotServer.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [],
+  "author": "Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0",
+    "ngrok": "^5.0.0-beta.2",
+    "nodemon": "^3.1.10",
+    "uuid": "^11.1.0"
+  }
+}
