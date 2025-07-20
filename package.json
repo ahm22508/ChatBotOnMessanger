@@ -4,7 +4,7 @@
   "description": "pack",
   "main": "ChatBotServer.js",
   "scripts": {
-    "start": "node index",
+    "start": "node ChatBotServer.js",
     "dev": "nodemon index"
   },
   "repository": {
